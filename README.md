@@ -18,6 +18,8 @@ A fun and interactive memory card game built with React where players test their
 - [PokéAPI](https://pokeapi.co/) - RESTful Pokémon API
 - CSS3 - Styling and animations
 
+## [Live Version](https://memory-card-game-2ft.pages.dev/)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -29,7 +31,7 @@ A fun and interactive memory card game built with React where players test their
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/memory-card-game.git
+git clone git@github.com:parikhitm/Memory-Card-Game.git
 ```
 2. Navigate to project directory
 ```
@@ -59,6 +61,7 @@ npm run dev
  - ```npm run lint``` - Run ESLint
 
 ## 📁 Project Structure
+```
 memory-card-game/
 ├── src/
 │   ├── App.jsx        # Main game component
@@ -68,6 +71,7 @@ memory-card-game/
 ├── public/
 ├── index.html
 └── package.json
+```
 
 ## ✨ Features
  - Responsive design works on both desktop and mobile
